@@ -36,13 +36,7 @@ OUTPUT:         Nr : (scalar) length of new column vectors
                         D(Nr,1) : new timestamps
                         D(Nr,2) : new data series
 
-NOTE:           This work is supported by the DART project (H2020): "Data-Driven 
-                Aircraft Trajectory Prediction Research" (http://dart-research.eu) 
-                and the Data Science Lab (http://www.datastories.org) at the 
-                University of Piraeus, Greece (http://www.unipi.gr).
-
-AUTHOR:         Harris Georgiou (MSc,PhD) - IS/IT Engineer (R&D) - Data Science Lab., University of Piraeus
-COPYRIGHT:      Data Science Lab @ UniPi (c) 2017 - http://datastories.org
+CONTRIBUTOR:    Harris Georgiou; Data Science Lab.
 
 ACKNOWLEDGMENT: This work was partially supported by the European Union’s Horizon 2020 research and innovation programme under grant agreements No 687591 (DATACRON) and No 699299 (DART). 
 LICENCE:        Creative Commons (CC-BY-SA) 4.0/I - http://creativecommons.org
