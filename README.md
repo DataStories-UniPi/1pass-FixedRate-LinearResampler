@@ -39,6 +39,7 @@ OUTPUT:         Nr : (scalar) length of new column vectors
 CONTRIBUTOR:    Harris Georgiou; Data Science Lab.
 
 ACKNOWLEDGMENT: This work was partially supported by the European Union’s Horizon 2020 research and innovation programme under grant agreements No 687591 (DATACRON) and No 699299 (DART). 
+
 LICENCE:        Creative Commons (CC-BY-SA) 4.0/I - http://creativecommons.org
 
 -----------------------------------------------------------------------
